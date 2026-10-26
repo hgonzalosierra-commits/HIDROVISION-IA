@@ -1,0 +1,21 @@
+{
+  "event": "hidro_vision.executive_report_ready",
+  "schema_version": 2,
+  "delivery_id": "00000000000000000000000000000000",
+  "report_id": "00000000000000000000000000000000",
+  "comparison_id": "00000000000000000000000000000000",
+  "file_name": "HIDRO_VISION_00000000000000000000000000000000.pdf",
+  "file_path": "/HIDRO-VISION/Informes enviados/HIDRO_VISION_00000000000000000000000000000000.pdf",
+  "project": "Dique - Tramo 03",
+  "campaign_a": "ENERO 2026",
+  "campaign_b": "JULIO 2026",
+  "report_created": "2026-10-26T20:00:00+00:00",
+  "findings": 3,
+  "urgent": 1,
+  "priority": 1,
+  "follow_up": 1,
+  "pending_verification": 2,
+  "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+  "email_subject": "HIDRO-VISION | Informe ejecutivo - Dique - Tramo 03 - ENERO 2026 / JULIO 2026",
+  "email_intro": "Se comparte el informe ejecutivo de las inspecciones de Dique - Tramo 03, correspondientes a ENERO 2026 y JULIO 2026. Incluye evidencias y 3 hallazgos revisados: 1 urgentes, 1 prioritarios y 1 de seguimiento. 2 pendientes de verificación de campo. Se remite para revisión de jefatura y coordinación de acciones."
+}

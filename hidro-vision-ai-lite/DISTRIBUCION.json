@@ -1,0 +1,155 @@
+{
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 154,
+      "sha256": "e20a38c4df1cc39222061b2c08b8a647818f6cf1436d8a3f4a2ea01742772b4f"
+    },
+    {
+      "path": "ARQUITECTURA.md",
+      "bytes": 2975,
+      "sha256": "24de13a3ae1a76590d39df71971beaf49cdd06556b8bf2aa297227a27c6c6297"
+    },
+    {
+      "path": "GUIA_ONEDRIVE_MAKE.md",
+      "bytes": 7771,
+      "sha256": "058b6d24adf21d3eae7b2202e206c22393f99b29c3ca90346c54bdb52a46004e"
+    },
+    {
+      "path": "INICIAR_HIDRO_VISION.cmd",
+      "bytes": 308,
+      "sha256": "19c50ea64cb8fd98176da41cb0184d0dd68b06627bfde79306d8952604015293"
+    },
+    {
+      "path": "INSTALAR_WINDOWS.cmd",
+      "bytes": 745,
+      "sha256": "245f9b6f2a8c323508eabfe0b8b19d5ef58b2e6312fc9d125bf126a8ba898ef2"
+    },
+    {
+      "path": "MAKE_ESTRUCTURA_EJEMPLO.json",
+      "bytes": 1156,
+      "sha256": "b1d7cc710f768c6536ddfdf32d124f87ab54de648976c7fa993293597fd3e57c"
+    },
+    {
+      "path": "README.md",
+      "bytes": 5397,
+      "sha256": "225667830108061699efdd6531f6664707d0fc1a2ed4dfac58930cd7012bfb0b"
+    },
+    {
+      "path": "docs/comparison.js",
+      "bytes": 10728,
+      "sha256": "1cb940d6e668363820ace406213974a70c5002a47f368ecd068fdaaf9e24678b"
+    },
+    {
+      "path": "docs/evidencias/estaciones-senamhi.json",
+      "bytes": 119805,
+      "sha256": "9abbe198fa00866a48b6d4ed2f80846f3dea4b8c3687261303b8c256d02e5dce"
+    },
+    {
+      "path": "docs/evidencias/precipitacion-resumen.json",
+      "bytes": 391,
+      "sha256": "2ae6cf7127484e4c6aeb0dd352cf59f60b55fb7a7408ffd4d9c34f71d0b07bdd"
+    },
+    {
+      "path": "docs/evidencias/senamhi-113249-202601.tsv",
+      "bytes": 27458,
+      "sha256": "f570dc83c017cc47b1ecacad495a2ce994d5a3b618304c1611b40753b9c22f88"
+    },
+    {
+      "path": "docs/evidencias/senamhi-113249-202607.tsv",
+      "bytes": 27365,
+      "sha256": "de9448baf4c96f0b1fd4735987c9c7e04cb6d405b9540cddae91680d6ba3ed73"
+    },
+    {
+      "path": "docs/index.html",
+      "bytes": 15560,
+      "sha256": "77abaf1447ec82fd436558d58a0127a213e070c989abd8362e03d6400e2ead1d"
+    },
+    {
+      "path": "docs/meteorologia.js",
+      "bytes": 3207,
+      "sha256": "892ce0cf36526d99367951d443aedb82f5df531ab007e6dff43de3f07725e298"
+    },
+    {
+      "path": "docs/platform.css",
+      "bytes": 8462,
+      "sha256": "c0c2d735ad4bbf8e6f6bde548ff5e5681db1e8e54bb7bdc67dd6ae1f01781938"
+    },
+    {
+      "path": "docs/platform.js",
+      "bytes": 17410,
+      "sha256": "767c91fa86ca03af583a04f53a5853810a24cf9b1b4e16a69a351a8586ee0ab8"
+    },
+    {
+      "path": "docs/zoom.js",
+      "bytes": 3735,
+      "sha256": "bd1e82908524e0b03cbd3a35423d52ac58a3fb865d5566cfc1ae6b5421bc279f"
+    },
+    {
+      "path": "executive_report.py",
+      "bytes": 9146,
+      "sha256": "0582e126b78b73693a95dd7e207cab98649788b5ab2ea1c0f55a543d19893f3e"
+    },
+    {
+      "path": "platform_store.py",
+      "bytes": 15841,
+      "sha256": "d931cb666a6c1ad747d1820652dcd1133d69368b0e0058339887a93d144bdab2"
+    },
+    {
+      "path": "processor.py",
+      "bytes": 15636,
+      "sha256": "ff9eae0cf54ba9ee43c6ae9a07a0d537e18383c7a33e05da20ef2ae5d924e319"
+    },
+    {
+      "path": "report_delivery.py",
+      "bytes": 11073,
+      "sha256": "d510c4cbeada12620362938f32113eb3d970c3de7eb9b9ef0bd5ced7bca7a153"
+    },
+    {
+      "path": "requirements-test.txt",
+      "bytes": 32,
+      "sha256": "fcd47eee43cf6bd7c6d0dd3df6a9c448d91ea9c224246cbba139978a3ffd9b7d"
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 102,
+      "sha256": "e4358db42a5353e89918642fc8ca2757ead90a9815f0cbcbb4a7c17a5004204d"
+    },
+    {
+      "path": "server.py",
+      "bytes": 9076,
+      "sha256": "172f126213c4fde28498ce3a2bab5debcf7f6bccab0da13002ff8577e75c780c"
+    },
+    {
+      "path": "test_comparison.py",
+      "bytes": 4490,
+      "sha256": "9a7423a3eebc7d61db1be14f03fc3da1b91801f2374551932aaff592c0cd895b"
+    },
+    {
+      "path": "test_delivery.py",
+      "bytes": 8005,
+      "sha256": "894f04a8bf87353c040b7200429bb0ad5fa7d924e8c5296bf05b362d8f80c5df"
+    },
+    {
+      "path": "test_finding_archive.py",
+      "bytes": 3230,
+      "sha256": "8092e68551f5757a47568e032ff829db210d634d2b5dd902705f13a676f380fe"
+    },
+    {
+      "path": "test_platform.py",
+      "bytes": 3038,
+      "sha256": "eafd75f3a8686868c4e7ba1a84bf454d29e1cf09b3422e2d448c73df05bf904c"
+    },
+    {
+      "path": "test_server.py",
+      "bytes": 1586,
+      "sha256": "fc1a9284c3c905d512507e5be0140f43f4a4764a9316fdf90abefd465e75e58b"
+    },
+    {
+      "path": "weather_context.py",
+      "bytes": 1787,
+      "sha256": "6dc74fcaf1bc3d909a3741cc1bb20518e43df547ea268ea647483984436f41e7"
+    }
+  ],
+  "total_bytes": 335669
+}

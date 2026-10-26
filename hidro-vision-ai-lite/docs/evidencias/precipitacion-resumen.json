@@ -1,0 +1,18 @@
+{
+  "113249": {
+    "2026-01": {
+      "sum_mm": 2.8,
+      "valid_hours": 738,
+      "expected_hours": 744,
+      "rows": 740,
+      "evidence": "/evidencias/senamhi-113249-202601.tsv"
+    },
+    "2026-07": {
+      "sum_mm": 0.1,
+      "valid_hours": 740,
+      "expected_hours": 744,
+      "rows": 740,
+      "evidence": "/evidencias/senamhi-113249-202607.tsv"
+    }
+  }
+}
